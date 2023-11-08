@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+    <string name="Date">Sunday, 19 May 2019 | 9:30PM</string>
+    <string name="location">Mumbai, India</string>
+    <string name="cloud">Cloudy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="temperature_frst_mini">35°C↑</string>
+    <string name="temperature_scnd_mini">27°C↓</string>
+    <string name="celsius">29</string>
+    <string name="tv_73">73%</string>
+    <string name="tv_speed">1,009mBar</string>
+    <string name="tv_humidity">Humidity</string>
+    <string name="tv_11">11 km/h</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="mo">Mon,21</string>
+    <string name="wed_22">Wed, 22</string>
+    <string name="_34_c29_c">34°C29°C</string>
+    <string name="_35_c26_c">35°C26°C</string>
+    <string name="tue_22">Tue, 22</string>
+    <string name="_35_c27_c">35°C27°C</string>
+    <string name="_13h_1m">13h 1m</string>
+    <string name="daytime">Daytime</string>
+    <string name="_7_05_pm">7:05 PM</string>
+    <string name="sunset">Sunset</string>
+    <string name="_6_03_am">6:03 AM</string>
+    <string name="sunrise">Sunrise</string>
+</resources>
